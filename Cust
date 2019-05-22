@@ -1,0 +1,26 @@
+[Proxy Group]
+Netflix = select, Proxy, Direct
+Hulu = select, Proxy, Direct
+YTPremium = select, Proxy, Direct
+
+[Rule]
+# > Hulu
+DOMAIN-SUFFIX,happyon.jp,Hulu
+DOMAIN-SUFFIX,hulu.com,Hulu
+DOMAIN-SUFFIX,huluim.com,Hulu
+DOMAIN-SUFFIX,hulustream.com,Hulu
+
+# > Netflix
+DOMAIN-SUFFIX,netflix.com,Netflix
+DOMAIN-SUFFIX,netflix.net,Netflix
+DOMAIN-SUFFIX,nflxext.com,Netflix
+DOMAIN-SUFFIX,nflximg.com,Netflix
+DOMAIN-SUFFIX,nflximg.net,Netflix
+DOMAIN-SUFFIX,nflxso.net,Netflix
+DOMAIN-SUFFIX,nflxvideo.net,Netflix
+
+# > Youtube
+DOMAIN-KEYWORD,youtube,YT
+DOMAIN-SUFFIX,googlevideo.com,YT
+DOMAIN-SUFFIX,gvt2.com,YT
+DOMAIN-SUFFIX,youtu.be,YT
