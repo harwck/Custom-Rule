@@ -1,10 +1,7 @@
-# > Hulu
 DOMAIN-SUFFIX,happyon.jp,🇺🇲 美国 - GIA CN2 3
 DOMAIN-SUFFIX,hulu.com,🇺🇲 美国 - GIA CN2 3
 DOMAIN-SUFFIX,huluim.com,🇺🇲 美国 - GIA CN2 3
 DOMAIN-SUFFIX,hulustream.com,🇺🇲 美国 - GIA CN2 3
-
-# > Netflix
 DOMAIN-SUFFIX,netflix.com,🇭🇰 中国深圳 -> 香港 1 | BGP
 DOMAIN-SUFFIX,netflix.net,🇭🇰 中国深圳 -> 香港 1 | BGP
 DOMAIN-SUFFIX,nflxext.com,🇭🇰 中国深圳 -> 香港 1 | BGP
@@ -12,8 +9,6 @@ DOMAIN-SUFFIX,nflximg.com,🇭🇰 中国深圳 -> 香港 1 | BGP
 DOMAIN-SUFFIX,nflximg.net,🇭🇰 中国深圳 -> 香港 1 | BGP
 DOMAIN-SUFFIX,nflxso.net,🇭🇰 中国深圳 -> 香港 1 | BGP
 DOMAIN-SUFFIX,nflxvideo.net,🇭🇰 中国深圳 -> 香港 1 | BGP
-
-# > Youtube
 DOMAIN-KEYWORD,youtube,🇯🇵 日本- AZURE 1
 DOMAIN-SUFFIX,googlevideo.com,🇯🇵 日本- AZURE 1
 DOMAIN-SUFFIX,gvt2.com,🇯🇵 日本- AZURE 1
