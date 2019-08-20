@@ -1,15 +1,15 @@
-DOMAIN-SUFFIX,happyon.jp,🇺🇸 美国 - GIA CN2 8
-DOMAIN-SUFFIX,hulu.com,🇺🇸 美国 - GIA CN2 8
-DOMAIN-SUFFIX,huluim.com,🇺🇸 美国 - GIA CN2 8
-DOMAIN-SUFFIX,hulustream.com,🇺🇸 美国 - GIA CN2 8
-DOMAIN-SUFFIX,netflix.com,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,netflix.net,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,nflxext.com,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,nflximg.com,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,nflximg.net,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,nflxso.net,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-SUFFIX,nflxvideo.net,🇭🇰 中国深圳 -> 香港 1 | BGP
-DOMAIN-KEYWORD,youtube,🇯🇵 日本 - AZURE 1
-DOMAIN-SUFFIX,googlevideo.com,🇯🇵 日本 - AZURE 1
-DOMAIN-SUFFIX,gvt2.com,🇯🇵 日本 - AZURE 1
-DOMAIN-SUFFIX,youtu.be,🇯🇵 日本 - AZURE 1
+DOMAIN-SUFFIX,happyon.jp,🇺🇸 美国 IPLC
+DOMAIN-SUFFIX,hulu.com,🇺🇸 美国 IPLC
+DOMAIN-SUFFIX,huluim.com,🇺🇸 美国 IPLC
+DOMAIN-SUFFIX,hulustream.com,🇺🇸 美国 IPLC
+DOMAIN-SUFFIX,netflix.com,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,netflix.net,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,nflxext.com,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,nflximg.com,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,nflximg.net,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,nflxso.net,🇭🇰 香港 BGP 04
+DOMAIN-SUFFIX,nflxvideo.net,🇭🇰 香港 BGP 04
+DOMAIN-KEYWORD,youtube,🇯🇵 日本 IPLC
+DOMAIN-SUFFIX,googlevideo.com,🇯🇵 日本 IPLC
+DOMAIN-SUFFIX,gvt2.com,🇯🇵 日本 IPLC
+DOMAIN-SUFFIX,youtu.be,🇯🇵 日本 IPLC
