@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,happyon.jp,🇺🇸 美国 IPLC
-DOMAIN-SUFFIX,hulu.com,🇺🇸 美国 IPLC
-DOMAIN-SUFFIX,huluim.com,🇺🇸 美国 IPLC
-DOMAIN-SUFFIX,hulustream.com,🇺🇸 美国 IPLC
+DOMAIN-SUFFIX,happyon.jp,🇺🇸 美国 BGP 03
+DOMAIN-SUFFIX,hulu.com,🇺🇸 美国 BGP 03
+DOMAIN-SUFFIX,huluim.com,🇺🇸 美国 BGP 03
+DOMAIN-SUFFIX,hulustream.com,🇺🇸 美国 BGP 03
 DOMAIN-SUFFIX,netflix.com,🇭🇰 香港 BGP 04
 DOMAIN-SUFFIX,netflix.net,🇭🇰 香港 BGP 04
 DOMAIN-SUFFIX,nflxext.com,🇭🇰 香港 BGP 04
