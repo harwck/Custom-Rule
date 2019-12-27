@@ -1,3 +1,4 @@
+# Naver
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,naver.net
@@ -6,9 +7,16 @@ DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,vlive.tv
 DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,kakaocdn.net
+
+# Daum
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,daum.net
-DOMAIN-SUFFIX,kaokao.com
+
+# KaoKao
 DOMAIN-SUFFIX,tistory.com
 DOMAIN-SUFFIX,topstarnews.net
 DOMAIN-SUFFIX,mobon.net
+DOMAIN-SUFFIX,kaokao.com
+DOMAIN-SUFFIX,kakaocorp.com
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
