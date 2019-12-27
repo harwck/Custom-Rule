@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,kaokao.com
 DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
+
+# Match
+GEOIP,KR
