@@ -1,0 +1,25 @@
+# Naver
+DOMAIN-SUFFIX,naver.com,KRWebsites
+DOMAIN-SUFFIX,pstatic.net,KRWebsites
+DOMAIN-SUFFIX,naver.net,KRWebsites
+DOMAIN-SUFFIX,navercorp.com,KRWebsites
+DOMAIN-SUFFIX,smartmediarep.com,KRWebsites
+DOMAIN-SUFFIX,vlive.tv,KRWebsites
+DOMAIN-SUFFIX,kakaocdn.net,KRWebsites
+
+# Daum
+DOMAIN-SUFFIX,daumcdn.net,KRWebsites
+DOMAIN-SUFFIX,daum.net,KRWebsites
+
+# KaoKao
+DOMAIN-SUFFIX,tistory.com,KRWebsites
+DOMAIN-SUFFIX,topstarnews.net,KRWebsites
+DOMAIN-SUFFIX,mobon.net,KRWebsites
+DOMAIN-SUFFIX,kaokao.com,KRWebsites
+DOMAIN-SUFFIX,kakaocorp.com,KRWebsites
+DOMAIN-SUFFIX,kakao.com,KRWebsites
+DOMAIN-SUFFIX,kakaocdn.net,KRWebsites
+
+# Match
+GEOIP,KR,KRWebsites
+DOMAIN-SUFFIX,kr,KRWebsites
