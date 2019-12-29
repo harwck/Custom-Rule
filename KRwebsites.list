@@ -6,10 +6,12 @@ DOMAIN-SUFFIX,navercorp.com
 DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,vlive.tv
 DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-KEYWORD,naver
 
 # Daum
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,daum.net
+DOMAIN-KEYWORD,daum
 
 # KaoKao
 DOMAIN-SUFFIX,tistory.com
@@ -19,6 +21,7 @@ DOMAIN-SUFFIX,kaokao.com
 DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-KEYWORD,kakao
 
 # Match
 GEOIP,KR
