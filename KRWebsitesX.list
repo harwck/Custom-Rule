@@ -6,10 +6,12 @@ DOMAIN-SUFFIX,navercorp.com,KRWebsites
 DOMAIN-SUFFIX,smartmediarep.com,KRWebsites
 DOMAIN-SUFFIX,vlive.tv,KRWebsites
 DOMAIN-SUFFIX,kakaocdn.net,KRWebsites
+DOMAIN-KEYWORD,naver,KRWebsites
 
 # Daum
 DOMAIN-SUFFIX,daumcdn.net,KRWebsites
 DOMAIN-SUFFIX,daum.net,KRWebsites
+DOMAIN-KEYWORD,daum,KRWebsites
 
 # KaoKao
 DOMAIN-SUFFIX,tistory.com,KRWebsites
@@ -19,6 +21,7 @@ DOMAIN-SUFFIX,kaokao.com,KRWebsites
 DOMAIN-SUFFIX,kakaocorp.com,KRWebsites
 DOMAIN-SUFFIX,kakao.com,KRWebsites
 DOMAIN-SUFFIX,kakaocdn.net,KRWebsites
+DOMAIN-KEYWORD,kakao,KRWebsites
 
 # Match
 GEOIP,KR,KRWebsites
