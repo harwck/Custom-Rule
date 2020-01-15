@@ -76,5 +76,8 @@ DOMAIN-SUFFIX,qianqian.com
 
 #Baidu Netdisk
 DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,pcs.baidu.com
 IP-CIDR,202.108.23.113/32
 IP-CIDR,61.135.185.18/32
