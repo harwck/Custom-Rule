@@ -1,3 +1,14 @@
+# Ticketing Websites
+DOMAIN-SUFFIX,yes24.com,KRWebsites
+DOMAIN-KEYWORD,yes24,KRWebsites
+DOMAIN-KEYWORD,ticketbay,KRWebsites
+DOMAIN-KEYWORD,widerplanet,KRWebsites
+DOMAIN-KEYWORD,exelbid,KRWebsites
+DOMAIN-SUFFIX,toast.com,KRWebsites
+DOMAIN-SUFFIX,bizspring.net,KRWebsites
+DOMAIN-SUFFIX,interpark.com,KRWebsites
+DOMAIN-SUFFIX,jwpcdn.com,KRWebsites
+
 # Naver
 DOMAIN-SUFFIX,naver.com,KRWebsites
 DOMAIN-SUFFIX,pstatic.net,KRWebsites
@@ -24,5 +35,7 @@ DOMAIN-SUFFIX,kakaocdn.net,KRWebsites
 DOMAIN-KEYWORD,kakao,KRWebsites
 
 # Match
-GEOIP,KR,KRWebsites
+DOMAIN-SUFFIX,dcinside.com,KRWebsites
+DOMAIN-SUFFIX,co.kr,KRWebsites
 DOMAIN-SUFFIX,kr,KRWebsites
+GEOIP,KR,KRWebsites
