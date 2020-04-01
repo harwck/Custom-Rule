@@ -74,9 +74,6 @@ DOMAIN-SUFFIX,koowo.com
 USER-AGENT,baiduyinyue
 DOMAIN-SUFFIX,qianqian.com
 
-# GeoIP China
-GEOIP,CN
-
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,mi.com
 DOMAIN-KEYWORD,torrent
