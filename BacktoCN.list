@@ -4,11 +4,6 @@ USER-AGENT,AcFun*
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.com
 DOMAIN-SUFFIX,aixifan.com
-# > bilibili
-USER-AGENT,bili-universal
-USER-AGENT,Bilibili*
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
 # > HunanTV
 USER-AGENT,MGTV*
@@ -94,3 +89,5 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,17wo.cn
+DOMAIN-SUFFIX,10010.com
