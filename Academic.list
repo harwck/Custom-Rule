@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,ac.jp
+DOMAIN-SUFFIX,edu
+DOMAIN-SUFFIX,edu.cn
+
+# Elsevier
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-KEYWORD,online-metrix
+
+# Lancet
+DOMAIN-SUFFIX,crossref.org
+DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,literatumonline.com
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,wiley.com
