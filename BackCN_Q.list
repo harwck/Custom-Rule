@@ -388,6 +388,3 @@ DOMAIN-SUFFIX,zhuihd.com,BacktoCN
 DOMAIN,download.jetbrains.com,BacktoCN
 DOMAIN,images-cn.ssl-images-amazon.com,BacktoCN
 DOMAIN,cdn.angruo.com,BacktoCN
-
-# DNSPod Public DNS+,BacktoCN
-IP-CIDR,119.28.28.28/32,no-resolve,BacktoCN
