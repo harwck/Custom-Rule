@@ -95,21 +95,13 @@ DOMAIN-SUFFIX,10010.com,BacktoCN
 DOMAIN-SUFFIX,zhihu.com,BacktoCN
 DOMAIN-SUFFIX,zhimg.com,BacktoCN
 
-# China Area Network,BacktoCN
-# > 360,BacktoCN
+# China Area Network
+# > 360
 DOMAIN-SUFFIX,qhres.com,BacktoCN
 DOMAIN-SUFFIX,qhimg.com,BacktoCN
-# > Akamai,BacktoCN
-DOMAIN-SUFFIX,akadns.net,BacktoCN
-# DOMAIN-SUFFIX,akamai.net,BacktoCN
-# DOMAIN-SUFFIX,akamaiedge.net,BacktoCN
-# DOMAIN-SUFFIX,akamaihd.net,BacktoCN
-# DOMAIN-SUFFIX,akamaistream.net,BacktoCN
-# DOMAIN-SUFFIX,akamaized.net,BacktoCN
-# > Alibaba,BacktoCN
+# > Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*,BacktoCN
 DOMAIN-SUFFIX,alibaba.com,BacktoCN
-DOMAIN-SUFFIX,alicdn.com,BacktoCN
 DOMAIN-SUFFIX,alikunlun.com,BacktoCN
 DOMAIN-SUFFIX,alipay.com,BacktoCN
 DOMAIN-SUFFIX,amap.com,BacktoCN
@@ -124,6 +116,8 @@ DOMAIN-SUFFIX,ykimg.com,BacktoCN
 DOMAIN-SUFFIX,youku.com,BacktoCN
 DOMAIN-SUFFIX,xiami.com,BacktoCN
 DOMAIN-SUFFIX,xiami.net,BacktoCN
+DOMAIN-SUFFIX,alipayobjects.com,BacktoCN
+DOMAIN-SUFFIX,cainiao.com,BacktoCN
 
 # > Baidu
 DOMAIN-SUFFIX,baidu.com,BacktoCN
@@ -281,13 +275,8 @@ DOMAIN-SUFFIX,360in.com,BacktoCN
 DOMAIN-SUFFIX,51ym.me,BacktoCN
 DOMAIN-SUFFIX,8686c.com,BacktoCN
 DOMAIN-SUFFIX,abchina.com,BacktoCN
-DOMAIN-SUFFIX,accuweather.com,BacktoCN
 DOMAIN-SUFFIX,aicoinstorge.com,BacktoCN
-DOMAIN-SUFFIX,air-matters.com,BacktoCN
-DOMAIN-SUFFIX,air-matters.io,BacktoCN
 DOMAIN-SUFFIX,aixifan.com,BacktoCN
-DOMAIN-SUFFIX,amd.com,BacktoCN
-DOMAIN-SUFFIX,b612.net,BacktoCN
 DOMAIN-SUFFIX,bdatu.com,BacktoCN
 DOMAIN-SUFFIX,beitaichufang.com,BacktoCN
 DOMAIN-SUFFIX,bjango.com,BacktoCN
@@ -329,16 +318,9 @@ DOMAIN-SUFFIX,huxiucdn.com,BacktoCN
 DOMAIN-SUFFIX,huya.com,BacktoCN
 DOMAIN-SUFFIX,infinitynewtab.com,BacktoCN
 DOMAIN-SUFFIX,ithome.com,BacktoCN
-DOMAIN-SUFFIX,java.com,BacktoCN
 DOMAIN-SUFFIX,jidian.im,BacktoCN
 DOMAIN-SUFFIX,kaiyanapp.com,BacktoCN
 DOMAIN-SUFFIX,kaspersky-labs.com,BacktoCN
-DOMAIN-SUFFIX,keepcdn.com,BacktoCN
-DOMAIN-SUFFIX,kkmh.com,BacktoCN
-DOMAIN-SUFFIX,licdn.com,BacktoCN
-DOMAIN-SUFFIX,linkedin.com,BacktoCN
-DOMAIN-SUFFIX,loli.net,BacktoCN
-DOMAIN-SUFFIX,luojilab.com,BacktoCN
 DOMAIN-SUFFIX,maoyan.com,BacktoCN
 DOMAIN-SUFFIX,maoyun.tv,BacktoCN
 DOMAIN-SUFFIX,meituan.com,BacktoCN
@@ -348,10 +330,6 @@ DOMAIN-SUFFIX,moke.com,BacktoCN
 DOMAIN-SUFFIX,mubu.com,BacktoCN
 DOMAIN-SUFFIX,myzaker.com,BacktoCN
 DOMAIN-SUFFIX,nim-lang-cn.org,BacktoCN
-DOMAIN-SUFFIX,nvidia.com,BacktoCN
-DOMAIN-SUFFIX,oracle.com,BacktoCN
-DOMAIN-SUFFIX,paypal.com,BacktoCN
-DOMAIN-SUFFIX,paypalobjects.com,BacktoCN
 DOMAIN-SUFFIX,qdaily.com,BacktoCN
 DOMAIN-SUFFIX,qidian.com,BacktoCN
 DOMAIN-SUFFIX,qyer.com,BacktoCN
@@ -369,12 +347,8 @@ DOMAIN-SUFFIX,snapdrop.net,BacktoCN
 DOMAIN-SUFFIX,snwx.com,BacktoCN
 DOMAIN-SUFFIX,sspai.com,BacktoCN
 DOMAIN-SUFFIX,takungpao.com,BacktoCN
-DOMAIN-SUFFIX,teamviewer.com,BacktoCN
 DOMAIN-SUFFIX,tianyancha.com,BacktoCN
 DOMAIN-SUFFIX,udacity.com,BacktoCN
-DOMAIN-SUFFIX,uning.com,BacktoCN
-DOMAIN-SUFFIX,vmware.com,BacktoCN
-DOMAIN-SUFFIX,weather.com,BacktoCN
 DOMAIN-SUFFIX,weico.cc,BacktoCN
 DOMAIN-SUFFIX,weidian.com,BacktoCN
 DOMAIN-SUFFIX,xiachufang.com,BacktoCN
