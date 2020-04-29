@@ -95,6 +95,9 @@ DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 
+# Aliyun China
+DOMAIN-KEYWORD,aliyun
+
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
