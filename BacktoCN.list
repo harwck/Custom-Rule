@@ -109,7 +109,6 @@ DOMAIN-SUFFIX,akadns.net
 # > Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*
 DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,amap.com
@@ -284,17 +283,10 @@ DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,accuweather.com
-DOMAIN-SUFFIX,aicoinstorge.com
-DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
-DOMAIN-SUFFIX,amd.com
-DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,beitaichufang.com
 DOMAIN-SUFFIX,bjango.com
-DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,camera360.com
@@ -330,16 +322,9 @@ DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hostbuf.com
 DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
-DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,jidian.im
 DOMAIN-SUFFIX,kaiyanapp.com
-DOMAIN-SUFFIX,kaspersky-labs.com
-DOMAIN-SUFFIX,keepcdn.com
-DOMAIN-SUFFIX,kkmh.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,luojilab.com
 DOMAIN-SUFFIX,maoyan.com
@@ -351,10 +336,6 @@ DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qyer.com
@@ -376,8 +357,6 @@ DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,udacity.com
 DOMAIN-SUFFIX,uning.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,xiachufang.com
@@ -392,6 +371,3 @@ DOMAIN-SUFFIX,zhuihd.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,cdn.angruo.com
-
-# DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,no-resolve
