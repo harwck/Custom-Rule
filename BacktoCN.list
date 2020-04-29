@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,17wo.cn
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,jcex.com
 
 # Aliyun China
 DOMAIN-KEYWORD,aliyun
@@ -140,6 +141,7 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,cainiao
+DOMAIN-SUFFIX,alicdn.com
 
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
