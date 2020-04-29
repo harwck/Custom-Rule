@@ -130,8 +130,11 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,tmall
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,img.taobaocdn.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-KEYWORD,alipay
