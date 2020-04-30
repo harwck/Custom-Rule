@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,zhimg.com,BacktoCN
 
 # Aliyun China
 DOMAIN-KEYWORD,aliyun,BacktoCN
+DOMAIN-SUFFIX,alicdn.com,BacktoCN
 
 # China Area Network
 # > 360
