@@ -109,10 +109,6 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,jcex.com
 
-# Aliyun China
-DOMAIN-KEYWORD,aliyun
-DOMAIN-SUFFIX,alicdn.com
-
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -124,26 +120,6 @@ DOMAIN-SUFFIX,akadns.net
 # DOMAIN-SUFFIX,akamaihd.net
 # DOMAIN-SUFFIX,akamaistream.net
 # DOMAIN-SUFFIX,akamaized.net
-# > Alibaba
-USER-AGENT,%E4%BC%98%E9%85%B7*
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,img.taobaocdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,xiami
-DOMAIN-KEYWORD,cainiao
-DOMAIN-SUFFIX,mmstat.com
 
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
@@ -201,17 +177,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
-
-# > 
-USER-AGENT,NeteaseMusic*
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,mi.com
 # > Sina
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
