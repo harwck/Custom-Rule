@@ -1,3 +1,13 @@
+# 墨墨背单词
+DOMAIN-KEYWORD,maimemo
+# Chinese航空
+DOMAIN-KEYWORD,csair
+DOMAIN-KEYWORD,ceair
+DOMAIN-KEYWORD,hnair
+DOMAIN-KEYWORD,airchina
+DOMAIN-KEYWORD,xiamenair
+DOMAIN-KEYWORD,juneyaoair
+
 # (Video)
 # AcFun
 USER-AGENT,AcFun*
