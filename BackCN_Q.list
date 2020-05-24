@@ -1,8 +1,12 @@
 # 墨墨背单词
 DOMAIN-KEYWORD,maimemo,BacktoCN
-# 南方航空
+# Chinese航空
 DOMAIN-KEYWORD,csair,BacktoCN
-
+DOMAIN-KEYWORD,ceair,BacktoCN
+DOMAIN-KEYWORD,hnair,BacktoCN
+DOMAIN-KEYWORD,airchina,BacktoCN
+DOMAIN-KEYWORD,xiamenair,BacktoCN
+DOMAIN-KEYWORD,juneyaoair,BacktoCN
 
 # (Video)
 # AcFun
