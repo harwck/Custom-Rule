@@ -9,30 +9,30 @@ HOST-KEYWORD,xiamenair,CMedia
 HOST-KEYWORD,juneyaoair,CMedia
 
 
-# HOST-SUFFIIX
-HOST-SUFFIIX,mi.com,CMedia
+# HOST-SUFFIX
+HOST-SUFFIX,mi.com,CMedia
 HOST-KEYWORD,torrent,CMedia
 HOST-KEYWORD,baidu,CMedia
-HOST-SUFFIIX,gov.cn,CMedia
-HOST-SUFFIIX,jd.com,CMedia
-HOST-SUFFIIX,360buyimg.com,CMedia
-HOST-SUFFIIX,dianping.com,CMedia
-HOST-SUFFIIX,meituan.com,CMedia
-HOST-SUFFIIX,meizu.com,CMedia
-HOST-SUFFIIX,meituan.net,CMedia
-HOST-SUFFIIX,95516.com,CMedia
-HOST-SUFFIIX,amap.com,CMedia
-HOST-SUFFIIX,ecitic.com,CMedia
-HOST-SUFFIIX,cib.com.cn,CMedia
-HOST-SUFFIIX,unionpay.com,CMedia
-HOST-SUFFIIX,cn,CMedia
-HOST-SUFFIIX,ximalaya.com,CMedia
-HOST-SUFFIIX,bdimg.com,CMedia
-HOST-SUFFIIX,17wo.cn,CMedia
-HOST-SUFFIIX,10010.com,CMedia
-HOST-SUFFIIX,zhihu.com,CMedia
-HOST-SUFFIIX,zhimg.com,CMedia
-HOST-SUFFIIX,jcex.com,CMedia
+HOST-SUFFIX,gov.cn,CMedia
+HOST-SUFFIX,jd.com,CMedia
+HOST-SUFFIX,360buyimg.com,CMedia
+HOST-SUFFIX,dianping.com,CMedia
+HOST-SUFFIX,meituan.com,CMedia
+HOST-SUFFIX,meizu.com,CMedia
+HOST-SUFFIX,meituan.net,CMedia
+HOST-SUFFIX,95516.com,CMedia
+HOST-SUFFIX,amap.com,CMedia
+HOST-SUFFIX,ecitic.com,CMedia
+HOST-SUFFIX,cib.com.cn,CMedia
+HOST-SUFFIX,unionpay.com,CMedia
+HOST-SUFFIX,cn,CMedia
+HOST-SUFFIX,ximalaya.com,CMedia
+HOST-SUFFIX,bdimg.com,CMedia
+HOST-SUFFIX,17wo.cn,CMedia
+HOST-SUFFIX,10010.com,CMedia
+HOST-SUFFIX,zhihu.com,CMedia
+HOST-SUFFIX,zhimg.com,CMedia
+HOST-SUFFIX,jcex.com,CMedia
 
 
 # > AcFun
