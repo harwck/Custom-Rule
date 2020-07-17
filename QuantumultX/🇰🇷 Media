@@ -1,0 +1,46 @@
+# Ticketing Websites
+DOMAIN-SUFFIX,yes24.com,🇰🇷 Media
+DOMAIN-KEYWORD,yes24,🇰🇷 Media
+DOMAIN-KEYWORD,ticketbay,🇰🇷 Media
+DOMAIN-KEYWORD,widerplanet,🇰🇷 Media
+DOMAIN-KEYWORD,exelbid,🇰🇷 Media
+DOMAIN-SUFFIX,toast.com,🇰🇷 Media
+DOMAIN-SUFFIX,bizspring.net,🇰🇷 Media
+DOMAIN-SUFFIX,interpark.com,🇰🇷 Media
+DOMAIN-SUFFIX,jwpcdn.com,🇰🇷 Media
+
+# Naver
+DOMAIN-SUFFIX,naver.com,🇰🇷 Media
+DOMAIN-SUFFIX,pstatic.net,🇰🇷 Media
+DOMAIN-SUFFIX,naver.net,🇰🇷 Media
+DOMAIN-SUFFIX,navercorp.com,🇰🇷 Media
+DOMAIN-SUFFIX,smartmediarep.com,🇰🇷 Media
+DOMAIN-SUFFIX,vlive.tv,🇰🇷 Media
+DOMAIN-SUFFIX,kakaocdn.net,🇰🇷 Media
+DOMAIN-SUFFIX,tving.com,🇰🇷 Media
+
+# Korea Torrent Sites
+DOMAIN-SUFFIX,torrenttt03.me,🇰🇷 Media
+DOMAIN-SUFFIX,torrentdia.com,🇰🇷 Media
+DOMAIN-SUFFIX,torrentube.net,🇰🇷 Media
+GEOIP,KR,Mainland,🇰🇷 Media
+
+# Daum
+DOMAIN-SUFFIX,daumcdn.net,🇰🇷 Media
+DOMAIN-SUFFIX,daum.net,🇰🇷 Media
+DOMAIN-KEYWORD,daum,🇰🇷 Media
+
+# KaoKao
+DOMAIN-SUFFIX,tistory.com,🇰🇷 Media
+DOMAIN-SUFFIX,topstarnews.net,🇰🇷 Media
+DOMAIN-SUFFIX,mobon.net,🇰🇷 Media
+DOMAIN-SUFFIX,kaokao.com,🇰🇷 Media
+DOMAIN-SUFFIX,kakaocorp.com,🇰🇷 Media
+DOMAIN-SUFFIX,kakao.com,🇰🇷 Media
+DOMAIN-SUFFIX,kakaocdn.net,🇰🇷 Media
+DOMAIN-KEYWORD,kakao,🇰🇷 Media
+
+# Match
+DOMAIN-SUFFIX,dcinside.com,🇰🇷 Media
+DOMAIN-SUFFIX,co.kr,🇰🇷 Media
+DOMAIN-SUFFIX,kr,🇰🇷 Media
