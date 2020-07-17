@@ -1,417 +1,151 @@
 # 墨墨背单词
-DOMAIN-KEYWORD,maimemo,BacktoCN
-# Chinese航空
-DOMAIN-KEYWORD,csair,BacktoCN
-DOMAIN-KEYWORD,ceair,BacktoCN
-DOMAIN-KEYWORD,hnair,BacktoCN
-DOMAIN-KEYWORD,airchina,BacktoCN
-DOMAIN-KEYWORD,xiamenair,BacktoCN
-DOMAIN-KEYWORD,juneyaoair,BacktoCN
+DOMAIN-KEYWORD,maimemo,CMedia
 
-# (Video)
-# AcFun
-USER-AGENT,AcFun*,BacktoCN
-DOMAIN-SUFFIX,acfun.cn,BacktoCN
-DOMAIN-SUFFIX,acfun.com,BacktoCN
-DOMAIN-SUFFIX,aixifan.com,BacktoCN
-DOMAIN-SUFFIX,hdslb.com,BacktoCN
+# Chinese Airlines
+DOMAIN-KEYWORD,csair,CMedia
+DOMAIN-KEYWORD,ceair,CMedia
+DOMAIN-KEYWORD,hnair,CMedia
+DOMAIN-KEYWORD,airchina,CMedia
+DOMAIN-KEYWORD,xiamenair,CMedia
+DOMAIN-KEYWORD,juneyaoair,CMedia
 
-# > HunanTV
-USER-AGENT,MGTV*,BacktoCN
-DOMAIN-SUFFIX,hitv.com,BacktoCN
-DOMAIN-SUFFIX,hunantv.com,BacktoCN
-DOMAIN-SUFFIX,mgtv.com,BacktoCN
 
-# > Migu
-USER-AGENT,MiguVideo*,BacktoCN
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,BacktoCN
-DOMAIN-SUFFIX,cmvideo.cn,BacktoCN
-DOMAIN-SUFFIX,migu.cn,BacktoCN
-DOMAIN-SUFFIX,miguvideo.com,BacktoCN
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,cn,CMedia
+DOMAIN-SUFFIX,mi.com,CMedia
+DOMAIN-KEYWORD,baidu,CMedia
+DOMAIN-SUFFIX,gov.cn,CMedia
+DOMAIN-SUFFIX,jd.com,CMedia
+DOMAIN-SUFFIX,360buyimg.com,CMedia
+DOMAIN-SUFFIX,dianping.com,CMedia
+DOMAIN-SUFFIX,meituan.com,CMedia
+DOMAIN-SUFFIX,meizu.com,CMedia
+DOMAIN-SUFFIX,meituan.net,CMedia
+DOMAIN-SUFFIX,95516.com,CMedia
+DOMAIN-SUFFIX,amap.com,CMedia
+DOMAIN-SUFFIX,ecitic.com,CMedia
+DOMAIN-SUFFIX,cib.com.cn,CMedia
+DOMAIN-SUFFIX,unionpay.com,CMedia
+DOMAIN-SUFFIX,ximalaya.com,CMedia
+DOMAIN-SUFFIX,bdimg.com,CMedia
+DOMAIN-SUFFIX,17wo.cn,CMedia
+DOMAIN-SUFFIX,10010.com,CMedia
+DOMAIN-SUFFIX,zhihu.com,CMedia
+DOMAIN-SUFFIX,zhimg.com,CMedia
+DOMAIN-SUFFIX,jcex.com,CMedia
 
-# > iQiyi
-USER-AGENT,iQiYi*,BacktoCN
-USER-AGENT,PPStream*,BacktoCN
-USER-AGENT,QIYI*,BacktoCN
-USER-AGENT,QYPlayer*,BacktoCN
-DOMAIN-SUFFIX,iqiyi.com,BacktoCN
-DOMAIN-SUFFIX,iqiyipic.com,BacktoCN
-DOMAIN-SUFFIX,qy.net,BacktoCN
-DOMAIN-SUFFIX,71.am,BacktoCN
-DOMAIN-SUFFIX,71edge.com,BacktoCN
-
-# > Sohu
-DOMAIN-SUFFIX,56.com,BacktoCN
-DOMAIN-SUFFIX,sohu.com,BacktoCN
-DOMAIN-SUFFIX,sohu.com.cn,BacktoCN
-DOMAIN-SUFFIX,itc.cn,BacktoCN
-DOMAIN-SUFFIX,v-56.com,BacktoCN
-
-# > Tencent
-USER-AGENT,live4iphone*,BacktoCN
-USER-AGENT,qqlive4iphone*,BacktoCN
-USER-AGENT,TencentMidasConnect*,BacktoCN
-DOMAIN-SUFFIX,video.qq.com,BacktoCN
-
-# > Youku
-USER-AGENT,Youku*,BacktoCN
-USER-AGENT,%E4%BC%98%E9%85%B7*,BacktoCN
-DOMAIN-SUFFIX,soku.com,BacktoCN
-DOMAIN-SUFFIX,youku.com,BacktoCN
-DOMAIN-SUFFIX,ykimg.com,BacktoCN
+# > AcFun
+USER-AGENT,AcFun*,CMedia
+DOMAIN-SUFFIX,acfun.cn,CMedia
+DOMAIN-SUFFIX,acfun.com,CMedia
+DOMAIN-SUFFIX,acfun.tv,CMedia
+DOMAIN-SUFFIX,aixifan.com,CMedia
 
 # > Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-
-# (Music)
-# > Alibaba
-USER-AGENT,walkman*,BacktoCN
-USER-AGENT,xiami*,BacktoCN
-DOMAIN-SUFFIX,xiami.com,BacktoCN
-DOMAIN-SUFFIX,xiami.net,BacktoCN
-
-# > Netease
-USER-AGENT,NeteaseMusic*,BacktoCN
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,BacktoCN
-DOMAIN-SUFFIX,music.126.net,BacktoCN
-DOMAIN-SUFFIX,music.163.com,BacktoCN
-
-# > Tencent
-USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,BacktoCN
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90,BacktoCN
-DOMAIN-SUFFIX,qqmusic.qq.com,BacktoCN
-DOMAIN-SUFFIX,y.qq.com,BacktoCN
-DOMAIN,aqqmusic.tc.qq.com,BacktoCN
-
-# Kugou and Kuwo
-DOMAIN-SUFFIX,kugou.com,BacktoCN
-USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,BacktoCN
-DOMAIN-SUFFIX,kuwo.cn,BacktoCN
-DOMAIN-SUFFIX,koowo.com,BacktoCN
-
-# > Baidu
-USER-AGENT,baiduyinyue,BacktoCN
-DOMAIN-SUFFIX,qianqian.com,BacktoCN
-
-# SUFFIX
-DOMAIN-SUFFIX,mi.com,BacktoCN
-DOMAIN-KEYWORD,torrent,BacktoCN
-DOMAIN-KEYWORD,baidu,BacktoCN
-DOMAIN-SUFFIX,gov.cn,BacktoCN
-DOMAIN-SUFFIX,jd.com,BacktoCN
-DOMAIN-SUFFIX,360buyimg.com,BacktoCN
-DOMAIN-SUFFIX,dianping.com,BacktoCN
-DOMAIN-SUFFIX,meituan.com,BacktoCN
-DOMAIN-SUFFIX,meizu.com,BacktoCN
-DOMAIN-SUFFIX,meituan.net,BacktoCN
-DOMAIN-SUFFIX,95516.com,BacktoCN
-DOMAIN-SUFFIX,amap.com,BacktoCN
-DOMAIN-SUFFIX,ecitic.com,BacktoCN
-DOMAIN-SUFFIX,cib.com.cn,BacktoCN
-DOMAIN-SUFFIX,unionpay.com,BacktoCN
-DOMAIN-SUFFIX,cn,BacktoCN
-DOMAIN-SUFFIX,qq.com,BacktoCN
-DOMAIN-SUFFIX,ximalaya.com,BacktoCN
-DOMAIN-SUFFIX,bdimg.com,BacktoCN
-DOMAIN-SUFFIX,17wo.cn,BacktoCN
-DOMAIN-SUFFIX,10010.com,BacktoCN
-DOMAIN-SUFFIX,zhihu.com,BacktoCN
-DOMAIN-SUFFIX,zhimg.com,BacktoCN
-
-# Aliyun China
-DOMAIN-KEYWORD,aliyun,BacktoCN
-DOMAIN-SUFFIX,alicdn.com,BacktoCN
-
-# China Area Network
-# > 360
-DOMAIN-SUFFIX,qhres.com,BacktoCN
-DOMAIN-SUFFIX,qhimg.com,BacktoCN
-
-# > Alibaba
-USER-AGENT,%E4%BC%98%E9%85%B7*,BacktoCN
-DOMAIN-SUFFIX,alibaba.com,BacktoCN
-DOMAIN-SUFFIX,alikunlun.com,BacktoCN
-DOMAIN-SUFFIX,alipay.com,BacktoCN
-DOMAIN-SUFFIX,amap.com,BacktoCN
-DOMAIN-SUFFIX,autonavi.com,BacktoCN
-DOMAIN-SUFFIX,dingtalk.com,BacktoCN
-DOMAIN-SUFFIX,mxhichina.com,BacktoCN
-DOMAIN-SUFFIX,soku.com,BacktoCN
-DOMAIN-SUFFIX,taobao.com,BacktoCN
-DOMAIN-SUFFIX,tmall.com,BacktoCN
-DOMAIN-SUFFIX,tmall.hk,BacktoCN
-DOMAIN-SUFFIX,ykimg.com,BacktoCN
-DOMAIN-SUFFIX,youku.com,BacktoCN
-DOMAIN-SUFFIX,xiami.com,BacktoCN
-DOMAIN-SUFFIX,xiami.net,BacktoCN
-DOMAIN-SUFFIX,alipayobjects.com,BacktoCN
-DOMAIN-SUFFIX,cainiao.com,BacktoCN
-
-# > Baidu
-DOMAIN-SUFFIX,baidu.com,BacktoCN
-DOMAIN-SUFFIX,baidubcr.com,BacktoCN
-DOMAIN-SUFFIX,bdstatic.com,BacktoCN
-DOMAIN-SUFFIX,yunjiasu-cdn.net,BacktoCN
-
-# > bilibili
-DOMAIN-SUFFIX,acgvideo.com,BacktoCN
-DOMAIN-SUFFIX,biliapi.com,BacktoCN
-DOMAIN-SUFFIX,biliapi.net,BacktoCN
-DOMAIN-SUFFIX,bilibili.com,BacktoCN
-DOMAIN-SUFFIX,bilibili.tv,BacktoCN
-DOMAIN-SUFFIX,hdslb.com,BacktoCN
-
-# > ByteDance
-DOMAIN-SUFFIX,feiliao.com,BacktoCN
-DOMAIN-SUFFIX,pstatp.com,BacktoCN
-DOMAIN-SUFFIX,snssdk.com,BacktoCN
-DOMAIN-SUFFIX,iesdouyin.com,BacktoCN
-DOMAIN-SUFFIX,toutiao.com,BacktoCN
-
-# > CCTV
-DOMAIN-SUFFIX,cctv.com,BacktoCN
-DOMAIN-SUFFIX,cctvpic.com,BacktoCN
-DOMAIN-SUFFIX,livechina.com,BacktoCN
-
-# > DiDi
-DOMAIN-SUFFIX,didialift.com,BacktoCN
-DOMAIN-SUFFIX,didiglobal.com,BacktoCN
-DOMAIN-SUFFIX,udache.com,BacktoCN
-
-# > 蛋蛋赞
-DOMAIN-SUFFIX,343480.com,BacktoCN
-DOMAIN-SUFFIX,baduziyuan.com,BacktoCN
-DOMAIN-SUFFIX,com-hs-hkdy.com,BacktoCN
-DOMAIN-SUFFIX,czybjz.com,BacktoCN
-DOMAIN-SUFFIX,dandanzan.com,BacktoCN
-DOMAIN-SUFFIX,fjhps.com,BacktoCN
-DOMAIN-SUFFIX,kuyunbo.club,BacktoCN
-
-# > ChinaNet
-DOMAIN-SUFFIX,21cn.com,BacktoCN
-
-# > HunanTV
-DOMAIN-SUFFIX,hitv.com,BacktoCN
-DOMAIN-SUFFIX,mgtv.com,BacktoCN
+USER-AGENT,bili*,CMedia
+USER-AGENT,Bilibili*,CMedia
+DOMAIN-SUFFIX,acg.tv,CMedia
+DOMAIN-SUFFIX,acgvideo.com,CMedia
+DOMAIN-SUFFIX,b23.tv,CMedia
+DOMAIN-SUFFIX,biliapi.com,CMedia
+DOMAIN-SUFFIX,biliapi.net,CMedia
+DOMAIN-SUFFIX,bilibili.com,CMedia
+DOMAIN-SUFFIX,biligame.com,CMedia
+DOMAIN-SUFFIX,biligame.net,CMedia
+DOMAIN-SUFFIX,bilivideo.com,CMedia
+DOMAIN-SUFFIX,hdslb.com,CMedia
+DOMAIN-SUFFIX,im9.com,CMedia
+DOMAIN-SUFFIX,smtcdns.net,CMedia
 
 # > iQiyi
-DOMAIN-SUFFIX,iqiyi.com,BacktoCN
-DOMAIN-SUFFIX,iqiyipic.com,BacktoCN
-DOMAIN-SUFFIX,71.am.com,BacktoCN
+USER-AGENT,QIYI*,CMedia
+USER-AGENT,iQiYi*,CMedia
+USER-AGENT,PPStream*,CMedia
+USER-AGENT,QYPlayer*,CMedia
+DOMAIN-SUFFIX,iqiyi.com,CMedia
+DOMAIN-SUFFIX,iqiyipic.com,CMedia
+DOMAIN-SUFFIX,qy.net,CMedia
+DOMAIN-SUFFIX,71.am,CMedia
 
-# > JD
-DOMAIN-SUFFIX,jd.com,BacktoCN
-DOMAIN-SUFFIX,jd.hk,BacktoCN
-DOMAIN-SUFFIX,jdpay.com,BacktoCN
-DOMAIN-SUFFIX,360buyimg.com,BacktoCN
+# > Kugou & Kuwo
+DOMAIN-SUFFIX,kugou.com,CMedia
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,CMedia
+DOMAIN-SUFFIX,kuwo.cn,CMedia
+DOMAIN-SUFFIX,koowo.com,CMedia
 
-# > Kingsoft
-DOMAIN-SUFFIX,iciba.com,BacktoCN
-DOMAIN-SUFFIX,ksosoft.com,BacktoCN
+# > Letv
+DOMAIN-SUFFIX,api.mob.app.letv.com,CMedia
+DOMAIN-SUFFIX,letv.com,CMedia
 
-# > Meitu
-DOMAIN-SUFFIX,meitu.com,BacktoCN
-DOMAIN-SUFFIX,meitudata.com,BacktoCN
-DOMAIN-SUFFIX,meitustat.com,BacktoCN
-DOMAIN-SUFFIX,meipai.com,BacktoCN
+# > MGTV
+USER-AGENT,MGTV*,CMedia
+DOMAIN-SUFFIX,hitv.com,CMedia
+DOMAIN-SUFFIX,hunantv.com,CMedia
+DOMAIN-SUFFIX,mgtv.com,CMedia
 
-# > MI
-DOMAIN-SUFFIX,duokan.com,BacktoCN
-DOMAIN-SUFFIX,mi-img.com,BacktoCN
-DOMAIN-SUFFIX,miui.com,BacktoCN
-DOMAIN-SUFFIX,miwifi.com,BacktoCN
-DOMAIN-SUFFIX,xiaomi.com,BacktoCN
+# > Migu
+USER-AGENT,MiguVideo*,CMedia
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,CMedia
+DOMAIN-SUFFIX,cmvideo.cn,CMedia
+DOMAIN-SUFFIX,migu.cn,CMedia
+DOMAIN-SUFFIX,miguvideo.com,CMedia
 
-# > NetEase,BacktoCN
-USER-AGENT,NeteaseMusic*,BacktoCN
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,BacktoCN
-DOMAIN-SUFFIX,163.com,BacktoCN
-DOMAIN-SUFFIX,126.net,BacktoCN
-DOMAIN-SUFFIX,127.net,BacktoCN
-DOMAIN-SUFFIX,163yun.com,BacktoCN
-DOMAIN-SUFFIX,lofter.com,BacktoCN
-DOMAIN-SUFFIX,netease.com,BacktoCN
-DOMAIN-SUFFIX,ydstatic.com,BacktoCN
+# > MOOMusic
+USER-AGENT,MOO*,CMedia
+USER-AGENT,TencentMidasConnect*,CMedia
 
-# > Sina
-DOMAIN-SUFFIX,sina.com,BacktoCN
-DOMAIN-SUFFIX,weibo.com,BacktoCN
-DOMAIN-SUFFIX,weibocdn.com,BacktoCN
+# > Netease Music
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,CMedia
+USER-AGENT,NeteaseMusic*,CMedia
+HOST,apm.music.163.com,CMedia
+HOST,apm3.music.163.com,CMedia
+HOST,interface.music.163.com,CMedia
+HOST,interface3.music.163.com,CMedia
+HOST,music.126.net,CMedia
+HOST,music.163.com,CMedia
+IP-CIDR,101.71.154.241/32,CMedia
+IP-CIDR,103.126.92.132/32,CMedia
+IP-CIDR,103.126.92.133/32,CMedia
+IP-CIDR,112.13.119.17/32,CMedia
+IP-CIDR,112.13.122.1/32,CMedia
+IP-CIDR,115.236.118.33/32,CMedia
+IP-CIDR,115.236.121.1/32,CMedia
+IP-CIDR,118.24.63.156/32,CMedia
+IP-CIDR,193.112.159.225/32,CMedia
+IP-CIDR,223.252.199.66/32,CMedia
+IP-CIDR,223.252.199.67/32,CMedia
+IP-CIDR,39.105.63.80/32,CMedia
+IP-CIDR,45.254.48.1/32,CMedia
+IP-CIDR,47.100.127.239/32,CMedia
+IP-CIDR,59.111.160.195/32,CMedia
+IP-CIDR,59.111.160.197/32,CMedia
+IP-CIDR,59.111.181.35/32,CMedia
+IP-CIDR,59.111.181.38/32,CMedia
+IP-CIDR,59.111.181.60/32,CMedia
 
-# > Sohu
-DOMAIN-SUFFIX,sohu.com,BacktoCN
-DOMAIN-SUFFIX,sohucs.com,BacktoCN
-DOMAIN-SUFFIX,sohu-inc.com,BacktoCN
-DOMAIN-SUFFIX,v-56.com,BacktoCN
+# > QQMusic
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,CMedia
+USER-AGENT,QQMusic*,CMedia
+DOMAIN-SUFFIX,*music.qq.com,CMedia
+DOMAIN-SUFFIX,y.qq.com,CMedia
+HOST,aqqmusic.tc.qq.com,CMedia
 
-# > Sogo
-DOMAIN-SUFFIX,sogo.com,BacktoCN
-DOMAIN-SUFFIX,sogou.com,BacktoCN
-DOMAIN-SUFFIX,sogoucdn.com,BacktoCN
+# > Tencent Video
+USER-AGENT,live4iphone*,CMedia
+USER-AGENT,qqlive4iphone*,CMedia
+USER-AGENT,TencentMidasConnect*,CMedia
+DOMAIN-SUFFIX,v.qq.com,CMedia
+DOMAIN-SUFFIX,video.qq.com,CMedia
 
-# > Tencent,BacktoCN
-USER-AGENT,MicroMessenger%20Client,BacktoCN
-USER-AGENT,WeChat*,BacktoCN
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,BacktoCN
-DOMAIN-SUFFIX,gtimg.com,BacktoCN
-DOMAIN-SUFFIX,idqqimg.com,BacktoCN
-DOMAIN-SUFFIX,igamecj.com,BacktoCN
-DOMAIN-SUFFIX,myapp.com,BacktoCN
-DOMAIN-SUFFIX,myqcloud.com,BacktoCN
-DOMAIN-SUFFIX,qq.com,BacktoCN
-DOMAIN-SUFFIX,servicewechat.com,BacktoCN
-DOMAIN-SUFFIX,tencent.com,BacktoCN
-DOMAIN-SUFFIX,tencent-cloud.net,BacktoCN
-DOMAIN-SUFFIX,tenpay.com,BacktoCN
-DOMAIN,file-igamecj.akamaized.net,BacktoCN
-# > YYeTs
-USER-AGENT,YYeTs*,BacktoCN
-DOMAIN-SUFFIX,jstucdn.com,BacktoCN
-DOMAIN-SUFFIX,zimuzu.io,BacktoCN
-DOMAIN-SUFFIX,zimuzu.tv,BacktoCN
-DOMAIN-SUFFIX,zmz2019.com,BacktoCN
-DOMAIN-SUFFIX,zmzapi.com,BacktoCN
-DOMAIN-SUFFIX,zmzapi.net,BacktoCN
-DOMAIN-SUFFIX,zmzfile.com,BacktoCN
-# > Content Delivery Network
-DOMAIN-SUFFIX,ccgslb.com,BacktoCN
-DOMAIN-SUFFIX,ccgslb.net,BacktoCN
-DOMAIN-SUFFIX,chinanetcenter.com,BacktoCN
-DOMAIN-SUFFIX,meixincdn.com,BacktoCN
-DOMAIN-SUFFIX,ourdvs.com,BacktoCN
-DOMAIN-SUFFIX,staticdn.net,BacktoCN
-DOMAIN-SUFFIX,wangsu.com,BacktoCN
+# > Xiami Music
+USER-AGENT,walkman*,CMedia
+USER-AGENT,xiami*,CMedia
+DOMAIN-SUFFIX,xiami.com,CMedia
+DOMAIN-SUFFIX,xiami.net,CMedia
 
-# > Private Tracker,BacktoCN
-DOMAIN-SUFFIX,awesome-hd.me,BacktoCN
-DOMAIN-SUFFIX,broadcasthe.net,BacktoCN
-DOMAIN-SUFFIX,chdbits.co,BacktoCN
-DOMAIN-SUFFIX,classix-unlimited.co.uk,BacktoCN
-DOMAIN-SUFFIX,empornium.me,BacktoCN
-DOMAIN-SUFFIX,gazellegames.net,BacktoCN
-DOMAIN-SUFFIX,hdchina.org,BacktoCN
-DOMAIN-SUFFIX,hdhome.org,BacktoCN
-DOMAIN-SUFFIX,hdsky.me,BacktoCN
-DOMAIN-SUFFIX,hdbits.org,BacktoCN
-DOMAIN-SUFFIX,icetorrent.org,BacktoCN
-DOMAIN-SUFFIX,jpopsuki.eu,BacktoCN
-DOMAIN-SUFFIX,keepfrds.com,BacktoCN
-DOMAIN-SUFFIX,madsrevolution.net,BacktoCN
-DOMAIN-SUFFIX,morethan.tv,BacktoCN
-DOMAIN-SUFFIX,m-team.cc,BacktoCN
-DOMAIN-SUFFIX,nanyangpt.com,BacktoCN
-DOMAIN-SUFFIX,ncore.cc,BacktoCN
-DOMAIN-SUFFIX,open.cd,BacktoCN
-DOMAIN-SUFFIX,ourbits.club,BacktoCN
-DOMAIN-SUFFIX,passthepopcorn.me,BacktoCN
-DOMAIN-SUFFIX,privatehd.to,BacktoCN
-DOMAIN-SUFFIX,pterclub.com,BacktoCN
-DOMAIN-SUFFIX,redacted.ch,BacktoCN
-DOMAIN-SUFFIX,springsunday.net,BacktoCN
-DOMAIN-SUFFIX,tjupt.org,BacktoCN
-DOMAIN-SUFFIX,totheglory.im,BacktoCN
-
-# > Other,BacktoCN
-DOMAIN-SUFFIX,cn,BacktoCN
-DOMAIN-SUFFIX,360in.com,BacktoCN
-DOMAIN-SUFFIX,51ym.me,BacktoCN
-DOMAIN-SUFFIX,8686c.com,BacktoCN
-DOMAIN-SUFFIX,abchina.com,BacktoCN
-DOMAIN-SUFFIX,aicoinstorge.com,BacktoCN
-DOMAIN-SUFFIX,aixifan.com,BacktoCN
-DOMAIN-SUFFIX,bdatu.com,BacktoCN
-DOMAIN-SUFFIX,beitaichufang.com,BacktoCN
-DOMAIN-SUFFIX,bjango.com,BacktoCN
-DOMAIN-SUFFIX,booking.com,BacktoCN
-DOMAIN-SUFFIX,bstatic.com,BacktoCN
-DOMAIN-SUFFIX,cailianpress.com,BacktoCN
-DOMAIN-SUFFIX,camera360.com,BacktoCN
-DOMAIN-SUFFIX,chinaso.com,BacktoCN
-DOMAIN-SUFFIX,chua.pro,BacktoCN
-DOMAIN-SUFFIX,chuimg.com,BacktoCN
-DOMAIN-SUFFIX,chunyu.mobi,BacktoCN
-DOMAIN-SUFFIX,chushou.tv,BacktoCN
-DOMAIN-SUFFIX,cmbchina.com,BacktoCN
-DOMAIN-SUFFIX,cmbimg.com,BacktoCN
-DOMAIN-SUFFIX,ctrip.com,BacktoCN
-DOMAIN-SUFFIX,dfcfw.com,BacktoCN
-DOMAIN-SUFFIX,docschina.org,BacktoCN
-DOMAIN-SUFFIX,douban.com,BacktoCN
-DOMAIN-SUFFIX,doubanio.com,BacktoCN
-DOMAIN-SUFFIX,douyu.com,BacktoCN
-DOMAIN-SUFFIX,dxycdn.com,BacktoCN
-DOMAIN-SUFFIX,dytt8.net,BacktoCN
-DOMAIN-SUFFIX,eastmoney.com,BacktoCN
-DOMAIN-SUFFIX,eudic.net,BacktoCN
-DOMAIN-SUFFIX,feng.com,BacktoCN
-DOMAIN-SUFFIX,fengkongcloud.com,BacktoCN
-DOMAIN-SUFFIX,frdic.com,BacktoCN
-DOMAIN-SUFFIX,futu5.com,BacktoCN
-DOMAIN-SUFFIX,futunn.com,BacktoCN
-DOMAIN-SUFFIX,gandi.net,BacktoCN
-DOMAIN-SUFFIX,geilicdn.com,BacktoCN
-DOMAIN-SUFFIX,getpricetag.com,BacktoCN
-DOMAIN-SUFFIX,gifshow.com,BacktoCN
-DOMAIN-SUFFIX,godic.net,BacktoCN
-DOMAIN-SUFFIX,hicloud.com,BacktoCN
-DOMAIN-SUFFIX,hongxiu.com,BacktoCN
-DOMAIN-SUFFIX,hostbuf.com,BacktoCN
-DOMAIN-SUFFIX,huxiucdn.com,BacktoCN
-DOMAIN-SUFFIX,huya.com,BacktoCN
-DOMAIN-SUFFIX,infinitynewtab.com,BacktoCN
-DOMAIN-SUFFIX,ithome.com,BacktoCN
-DOMAIN-SUFFIX,jidian.im,BacktoCN
-DOMAIN-SUFFIX,kaiyanapp.com,BacktoCN
-DOMAIN-SUFFIX,kaspersky-labs.com,BacktoCN
-DOMAIN-SUFFIX,maoyan.com,BacktoCN
-DOMAIN-SUFFIX,maoyun.tv,BacktoCN
-DOMAIN-SUFFIX,meituan.com,BacktoCN
-DOMAIN-SUFFIX,meituan.net,BacktoCN
-DOMAIN-SUFFIX,mobike.com,BacktoCN
-DOMAIN-SUFFIX,moke.com,BacktoCN
-DOMAIN-SUFFIX,mubu.com,BacktoCN
-DOMAIN-SUFFIX,myzaker.com,BacktoCN
-DOMAIN-SUFFIX,nim-lang-cn.org,BacktoCN
-DOMAIN-SUFFIX,qdaily.com,BacktoCN
-DOMAIN-SUFFIX,qidian.com,BacktoCN
-DOMAIN-SUFFIX,qyer.com,BacktoCN
-DOMAIN-SUFFIX,qyerstatic.com,BacktoCN
-DOMAIN-SUFFIX,raychase.net,BacktoCN
-DOMAIN-SUFFIX,ronghub.com,BacktoCN
-DOMAIN-SUFFIX,ruguoapp.com,BacktoCN
-DOMAIN-SUFFIX,s-reader.com,BacktoCN
-DOMAIN-SUFFIX,sankuai.com,BacktoCN
-DOMAIN-SUFFIX,scomper.me,BacktoCN
-DOMAIN-SUFFIX,seafile.com,BacktoCN
-DOMAIN-SUFFIX,sm.ms,BacktoCN
-DOMAIN-SUFFIX,smzdm.com,BacktoCN
-DOMAIN-SUFFIX,snapdrop.net,BacktoCN
-DOMAIN-SUFFIX,snwx.com,BacktoCN
-DOMAIN-SUFFIX,sspai.com,BacktoCN
-DOMAIN-SUFFIX,takungpao.com,BacktoCN
-DOMAIN-SUFFIX,tianyancha.com,BacktoCN
-DOMAIN-SUFFIX,udacity.com,BacktoCN
-DOMAIN-SUFFIX,weico.cc,BacktoCN
-DOMAIN-SUFFIX,weidian.com,BacktoCN
-DOMAIN-SUFFIX,xiachufang.com,BacktoCN
-DOMAIN-SUFFIX,ximalaya.com,BacktoCN
-DOMAIN-SUFFIX,xinhuanet.com,BacktoCN
-DOMAIN-SUFFIX,xmcdn.com,BacktoCN
-DOMAIN-SUFFIX,yangkeduo.com,BacktoCN
-DOMAIN-SUFFIX,zhangzishi.cc,BacktoCN
-DOMAIN-SUFFIX,zhihu.com,BacktoCN
-DOMAIN-SUFFIX,zhimg.com,BacktoCN
-DOMAIN-SUFFIX,zhuihd.com,BacktoCN
-DOMAIN,download.jetbrains.com,BacktoCN
-DOMAIN,images-cn.ssl-images-amazon.com,BacktoCN
-DOMAIN,cdn.angruo.com,BacktoCN
+# > Youku
+USER-AGENT,Youku*,CMedia
+USER-AGENT,%E4%BC%98%E9%85%B7*,CMedia
+DOMAIN-SUFFIX,soku.com,CMedia
+DOMAIN-SUFFIX,youku.com,CMedia
+DOMAIN-SUFFIX,ykimg.com,CMedia
