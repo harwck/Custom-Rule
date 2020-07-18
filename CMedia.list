@@ -1,5 +1,9 @@
 # 墨墨背单词
 DOMAIN-KEYWORD,maimemo
+USER-AGENT,MaiMemo*
+
+# 千牛
+USER-AGENT,%E5%8D%83%E7%89%9B*
 
 # Chinese航空
 DOMAIN-KEYWORD,csair
