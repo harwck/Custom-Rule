@@ -5,14 +5,13 @@ USER-AGENT,MaiMemo*
 # 千牛
 USER-AGENT,%E5%8D%83%E7%89%9B*
 
-# Chinese航空
+# Chinese Airlines
 DOMAIN-KEYWORD,csair
 DOMAIN-KEYWORD,ceair
 DOMAIN-KEYWORD,hnair
 DOMAIN-KEYWORD,airchina
 DOMAIN-KEYWORD,xiamenair
 DOMAIN-KEYWORD,juneyaoair
-
 
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,mi.com
