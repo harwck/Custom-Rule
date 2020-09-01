@@ -37,6 +37,13 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,jcex.com
 
+# > QQ
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,graph.qq.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,vip.qq.com
+IP-CIDR,203.205.239.141/32
+
 # > AcFun
 USER-AGENT,AcFun*
 DOMAIN-SUFFIX,acfun.cn
