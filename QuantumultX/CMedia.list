@@ -1,5 +1,9 @@
 # 墨墨背单词
 DOMAIN-KEYWORD,maimemo,CMedia
+USER-AGENT,MaiMemo*,CMedia
+
+# 千牛
+USER-AGENT,%E5%8D%83%E7%89%9B*,CMedia
 
 # Chinese Airlines
 DOMAIN-KEYWORD,csair,CMedia
@@ -8,7 +12,6 @@ DOMAIN-KEYWORD,hnair,CMedia
 DOMAIN-KEYWORD,airchina,CMedia
 DOMAIN-KEYWORD,xiamenair,CMedia
 DOMAIN-KEYWORD,juneyaoair,CMedia
-
 
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,cn,CMedia
@@ -33,6 +36,14 @@ DOMAIN-SUFFIX,10010.com,CMedia
 DOMAIN-SUFFIX,zhihu.com,CMedia
 DOMAIN-SUFFIX,zhimg.com,CMedia
 DOMAIN-SUFFIX,jcex.com,CMedia
+
+# > QQ
+DOMAIN-SUFFIX,beacon.qq.com,CMedia
+DOMAIN-SUFFIX,graph.qq.com,CMedia
+DOMAIN-SUFFIX,idqqimg.com,CMedia
+DOMAIN-SUFFIX,vip.qq.com,CMedia
+IP-CIDR,203.205.239.141/32,CMedia
+IP-CIDR,59.37.116.27/32,CMedia
 
 # > AcFun
 USER-AGENT,AcFun*,CMedia
@@ -66,29 +77,6 @@ DOMAIN-SUFFIX,iqiyi.com,CMedia
 DOMAIN-SUFFIX,iqiyipic.com,CMedia
 DOMAIN-SUFFIX,qy.net,CMedia
 DOMAIN-SUFFIX,71.am,CMedia
-
-# > Kugou & Kuwo
-DOMAIN-SUFFIX,kugou.com,CMedia
-USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,CMedia
-DOMAIN-SUFFIX,kuwo.cn,CMedia
-DOMAIN-SUFFIX,koowo.com,CMedia
-
-# > Letv
-DOMAIN-SUFFIX,api.mob.app.letv.com,CMedia
-DOMAIN-SUFFIX,letv.com,CMedia
-
-# > MGTV
-USER-AGENT,MGTV*,CMedia
-DOMAIN-SUFFIX,hitv.com,CMedia
-DOMAIN-SUFFIX,hunantv.com,CMedia
-DOMAIN-SUFFIX,mgtv.com,CMedia
-
-# > Migu
-USER-AGENT,MiguVideo*,CMedia
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,CMedia
-DOMAIN-SUFFIX,cmvideo.cn,CMedia
-DOMAIN-SUFFIX,migu.cn,CMedia
-DOMAIN-SUFFIX,miguvideo.com,CMedia
 
 # > MOOMusic
 USER-AGENT,MOO*,CMedia
