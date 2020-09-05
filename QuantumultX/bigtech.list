@@ -1,0 +1,65 @@
+# > Microsoft
+USER-AGENT,OneDrive*,🗽 BigTech
+DOMAIN-KEYWORD,onedrive,🗽 BigTech
+DOMAIN-SUFFIX,azure.com,🗽 BigTech
+DOMAIN-SUFFIX,fabric.io,🗽 BigTech
+DOMAIN-SUFFIX,files.1drv.com,🗽 BigTech
+DOMAIN-SUFFIX,hotmail.com,🗽 BigTech
+DOMAIN-SUFFIX,live.com,🗽 BigTech
+DOMAIN-SUFFIX,live.net,🗽 BigTech
+DOMAIN-SUFFIX,livefilestore.com,🗽 BigTech
+DOMAIN-SUFFIX,mesh.com,🗽 BigTech
+DOMAIN-SUFFIX,microsoft.com,🗽 BigTech
+DOMAIN-SUFFIX,microsoftonline.com,🗽 BigTech
+DOMAIN-SUFFIX,microsoft-tst.com,🗽 BigTech
+DOMAIN-SUFFIX,msn.com,🗽 BigTech
+DOMAIN-SUFFIX,office.com,🗽 BigTech
+DOMAIN-SUFFIX,office.net,🗽 BigTech
+DOMAIN-SUFFIX,onedrive.com,🗽 BigTech
+DOMAIN-SUFFIX,outlook.com,🗽 BigTech
+DOMAIN-SUFFIX,p.sfx.ms,🗽 BigTech
+DOMAIN-SUFFIX,sharepoint.com,🗽 BigTech
+DOMAIN-SUFFIX,skype.com,🗽 BigTech
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🗽 BigTech
+DOMAIN-SUFFIX,storage.msn.com,🗽 BigTech
+DOMAIN-SUFFIX,windows.net,🗽 BigTech
+DOMAIN-SUFFIX,xbox.com,🗽 BigTech
+DOMAIN-SUFFIX,xboxlive.com,🗽 BigTech
+# > Apple API
+DOMAIN-SUFFIX,aaplimg.com,🗽 BigTech
+DOMAIN-SUFFIX,apple.co,🗽 BigTech
+DOMAIN-SUFFIX,apple.com,🗽 BigTech
+DOMAIN-SUFFIX,apple-cloudkit.com,🗽 BigTech
+DOMAIN-SUFFIX,appsto.re,🗽 BigTech
+DOMAIN-SUFFIX,cdn-apple.com,🗽 BigTech
+DOMAIN-SUFFIX,icloud.com,🗽 BigTech
+DOMAIN-SUFFIX,icloud-content.com,🗽 BigTech
+DOMAIN-SUFFIX,itunes.com,🗽 BigTech
+DOMAIN-SUFFIX,me.com,🗽 BigTech
+IP-CIDR,17.0.0.0/8,no-resolve,🗽 BigTech
+IP-CIDR,63.92.224.0/19,no-resolve,🗽 BigTech
+IP-CIDR,65.199.22.0/23,no-resolve,🗽 BigTech
+IP-CIDR,139.178.128.0/18,no-resolve,🗽 BigTech
+IP-CIDR,144.178.0.0/19,no-resolve,🗽 BigTech
+IP-CIDR,144.178.36.0/22,no-resolve,🗽 BigTech
+IP-CIDR,144.178.48.0/20,no-resolve,🗽 BigTech
+IP-CIDR,192.35.50.0/24,no-resolve,🗽 BigTech
+IP-CIDR,198.183.17.0/24,no-resolve,🗽 BigTech
+IP-CIDR,205.180.175.0/24,no-resolve,🗽 BigTech
+
+# > Apple News
+DOMAIN-SUFFIX,apple.news,🗽 BigTech
+
+# > Apple Maps
+PROCESS-NAME,com.apple.geod,🗽 BigTech
+
+# > ALWAYS DIRECT
+DOMAIN-SUFFIX,coalcloud.xyz,🗽 BigTech
+DOMAIN-KEYWORD,google,🗽 BigTech
+DOMAIN-KEYWORD,imap,🗽 BigTech
+DOMAIN-KEYWORD,smtp,🗽 BigTech
+DOMAIN-SUFFIX,halton.xyz,DIRECT,🗽 BigTech
+DOMAIN-SUFFIX,gvt0.com,🗽 BigTech
+DOMAIN-SUFFIX,gvt1.com,🗽 BigTech
+DOMAIN-SUFFIX,gvt3.com,🗽 BigTech
+DOMAIN-KEYWORD,googleusercontent,🗽 BigTech
