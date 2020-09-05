@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,icloud.com,🗽 BigTech
 DOMAIN-SUFFIX,icloud-content.com,🗽 BigTech
 DOMAIN-SUFFIX,itunes.com,🗽 BigTech
 DOMAIN-SUFFIX,me.com,🗽 BigTech
-IP-CIDR,17.0.0.0/8,no-resolve,🗽 BigTech
+IP-CIDR,17.0.0.0/8,🗽 BigTech
 IP-CIDR,63.92.224.0/19,🗽 BigTech
 IP-CIDR,65.199.22.0/23,🗽 BigTech
 IP-CIDR,139.178.128.0/18,🗽 BigTech
