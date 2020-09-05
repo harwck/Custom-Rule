@@ -46,13 +46,8 @@ IP-CIDR,144.178.48.0/20,🗽 BigTech
 IP-CIDR,192.35.50.0/24,🗽 BigTech
 IP-CIDR,198.183.17.0/24,🗽 BigTech
 IP-CIDR,205.180.175.0/24,🗽 BigTech
-
 # > Apple News
 DOMAIN-SUFFIX,apple.news,🗽 BigTech
-
-# > Apple Maps
-PROCESS-NAME,com.apple.geod,🗽 BigTech
-
 # > ALWAYS DIRECT
 DOMAIN-SUFFIX,coalcloud.xyz,🗽 BigTech
 DOMAIN-KEYWORD,google,🗽 BigTech
