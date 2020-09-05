@@ -37,15 +37,15 @@ DOMAIN-SUFFIX,icloud-content.com,🗽 BigTech
 DOMAIN-SUFFIX,itunes.com,🗽 BigTech
 DOMAIN-SUFFIX,me.com,🗽 BigTech
 IP-CIDR,17.0.0.0/8,no-resolve,🗽 BigTech
-IP-CIDR,63.92.224.0/19,no-resolve,🗽 BigTech
-IP-CIDR,65.199.22.0/23,no-resolve,🗽 BigTech
-IP-CIDR,139.178.128.0/18,no-resolve,🗽 BigTech
-IP-CIDR,144.178.0.0/19,no-resolve,🗽 BigTech
-IP-CIDR,144.178.36.0/22,no-resolve,🗽 BigTech
-IP-CIDR,144.178.48.0/20,no-resolve,🗽 BigTech
-IP-CIDR,192.35.50.0/24,no-resolve,🗽 BigTech
-IP-CIDR,198.183.17.0/24,no-resolve,🗽 BigTech
-IP-CIDR,205.180.175.0/24,no-resolve,🗽 BigTech
+IP-CIDR,63.92.224.0/19,🗽 BigTech
+IP-CIDR,65.199.22.0/23,🗽 BigTech
+IP-CIDR,139.178.128.0/18,🗽 BigTech
+IP-CIDR,144.178.0.0/19,🗽 BigTech
+IP-CIDR,144.178.36.0/22,🗽 BigTech
+IP-CIDR,144.178.48.0/20,🗽 BigTech
+IP-CIDR,192.35.50.0/24,🗽 BigTech
+IP-CIDR,198.183.17.0/24,🗽 BigTech
+IP-CIDR,205.180.175.0/24,🗽 BigTech
 
 # > Apple News
 DOMAIN-SUFFIX,apple.news,🗽 BigTech
