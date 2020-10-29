@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,els-cdn.com
-  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-KEYWORD,sciencedirect
   - DOMAIN-KEYWORD,online-metrix
   - DOMAIN-SUFFIX,crossref.org
   - DOMAIN-SUFFIX,thelancet.com
