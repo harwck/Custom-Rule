@@ -1,8 +1,5 @@
 payload:  
-  # > Netflix
-  # - User-Agent,Argo*
   - DOMAIN-KEYWORD,netflix
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
   - DOMAIN-SUFFIX,nflxext.com
