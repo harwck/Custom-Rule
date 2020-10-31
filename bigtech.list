@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,whatsapp.net
   
 # Others
 DOMAIN-SUFFIX,coalcloud.xyz
