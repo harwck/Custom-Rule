@@ -62,3 +62,12 @@ payload:
   - DOMAIN-SUFFIX,halton.xyz
   - DOMAIN-KEYWORD,imap
   - DOMAIN-KEYWORD,smtp
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,cloudfront
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,mapbox.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,truste.com
+  - DOMAIN-SUFFIX,trustarc.com
