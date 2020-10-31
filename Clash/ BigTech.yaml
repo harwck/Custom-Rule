@@ -49,13 +49,16 @@ payload:
   - IP-CIDR,198.183.17.0/24
   - IP-CIDR,205.180.175.0/24
 
-    # > Google CDN
-  - DOMAIN-SUFFIX,coalcloud.xyz
+    # > Google NETWORK
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,imap
-  - DOMAIN-KEYWORD,smtp
-  - DOMAIN-SUFFIX,halton.xyz
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
-  - DOMAIN-KEYWORD,googleusercontent
+  
+    # Others
+  - DOMAIN-SUFFIX,coalcloud.xyz
+  - DOMAIN-SUFFIX,halton.xyz
+  - DOMAIN-KEYWORD,imap
+  - DOMAIN-KEYWORD,smtp
