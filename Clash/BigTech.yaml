@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-KEYWORD,recaptcha
   
     # > SNS
   - DOMAIN-KEYWORD,twitter
@@ -80,3 +81,4 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,truste.com
   - DOMAIN-SUFFIX,trustarc.com
+  - DOMAIN-SUFFIX,ipip.net
