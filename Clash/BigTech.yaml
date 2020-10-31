@@ -73,6 +73,8 @@ payload:
   - DOMAIN-KEYWORD,imap
   - DOMAIN-KEYWORD,smtp
   - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-KEYWORD,cloudfront
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,cloudflare.com
