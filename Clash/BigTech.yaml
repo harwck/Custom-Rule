@@ -3,7 +3,6 @@ payload:
   #- USER-AGENT,OneDrive*
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-SUFFIX,azure.com
-  - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,files.1drv.com
   - DOMAIN-SUFFIX,hotmail.com
@@ -32,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,officeapps.live.com
   - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,appcenter.ms
  
     # > Apple NETWORK
   - DOMAIN-SUFFIX,aaplimg.com
@@ -70,6 +70,7 @@ payload:
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,whatsapp.net
   
     # Others
   - DOMAIN-SUFFIX,coalcloud.xyz
