@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,twimg.com,bigtech
 DOMAIN-KEYWORD,instagram,bigtech
 DOMAIN-KEYWORD,facebook,bigtech
 DOMAIN-SUFFIX,fbcdn.net,bigtech
+DOMAIN-SUFFIX,whatsapp.net,bigtech
 
 # Others
 DOMAIN-SUFFIX,coalcloud.xyz,bigtech
