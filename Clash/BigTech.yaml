@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,mesh.com
+  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,microsoft-tst.com
