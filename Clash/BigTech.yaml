@@ -74,8 +74,6 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.net
   
     # Others
-  - DOMAIN-SUFFIX,coalcloud.xyz
-  - DOMAIN-SUFFIX,halton.xyz
   - DOMAIN-KEYWORD,imap
   - DOMAIN-KEYWORD,smtp
   - DOMAIN-KEYWORD,amazon
