@@ -59,6 +59,8 @@
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,miguvideo.com
+  #163
+  - DOMAINapi.iplay.163.com
   - DOMAIN-SUFFIX,apm.music.163.com
   - DOMAIN-SUFFIX,apm3.music.163.com
   - DOMAIN-SUFFIX,interface.music.163.com
