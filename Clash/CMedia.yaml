@@ -60,13 +60,10 @@
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,miguvideo.com
   #163
-  - DOMAINapi.iplay.163.com
-  - DOMAIN-SUFFIX,apm.music.163.com
-  - DOMAIN-SUFFIX,apm3.music.163.com
-  - DOMAIN-SUFFIX,interface.music.163.com
-  - DOMAIN-SUFFIX,interface3.music.163.com
-  - DOMAIN-SUFFIX,music.126.net
-  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,127.net
   - IP-CIDR,101.71.154.241/32
   - IP-CIDR,103.126.92.132/32
   - IP-CIDR,103.126.92.133/32
