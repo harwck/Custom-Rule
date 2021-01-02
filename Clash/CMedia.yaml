@@ -1,4 +1,4 @@
-  payload:  
+v  payload:  
   - DOMAIN-KEYWORD,maimemo
   - DOMAIN-KEYWORD,csair
   - DOMAIN-KEYWORD,ceair
@@ -96,3 +96,4 @@
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,coalcloud.net
+  - IP-CIDR,47.102.197.143/32
