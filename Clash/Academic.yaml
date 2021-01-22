@@ -1,5 +1,8 @@
 payload:  
   - DOMAIN-SUFFIX,ac.jp
+  - DOMAIN-SUFFIX,go.jp
+  - DOMAIN-SUFFIX,or.jp
+  - DOMAIN-SUFFIX,ad.jp
   - DOMAIN-SUFFIX,edu
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-KEYWORD,elsevier
