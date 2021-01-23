@@ -94,6 +94,5 @@ payload:
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,coalcloud.net
-  - IP-CIDR,47.102.197.143/32
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,suning.cn
