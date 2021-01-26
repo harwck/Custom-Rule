@@ -96,3 +96,4 @@ payload:
   - DOMAIN-SUFFIX,coalcloud.net
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,suning.cn
+  - IP-CIDR,47.102.0.0/16
