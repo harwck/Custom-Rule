@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,or.jp
 DOMAIN-SUFFIX,ad.jp
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,scholar.google.com
+DOMAIN,scholar.google.com
 
 # Elsevier
 DOMAIN-SUFFIX,elsevier.com
