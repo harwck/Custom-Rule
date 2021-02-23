@@ -1,11 +1,16 @@
 payload:  
+  # - > Airlines
   - DOMAIN-KEYWORD,maimemo
-  - DOMAIN-KEYWORD,csair
-  - DOMAIN-KEYWORD,ceair
-  - DOMAIN-KEYWORD,hnair
+  - DOMAIN-SUFFIX,csair.com
+  - DOMAIN-SUFFIX,hnair.com
+  - DOMAIN-SUFFIX,hnair.net
+  - DOMAIN-SUFFIX,dingxiang-inc.com
   - DOMAIN-KEYWORD,airchina
-  - DOMAIN-KEYWORD,xiamenair
-  - DOMAIN-KEYWORD,juneyaoair
+  - DOMAIN-SUFFIX,xiamenair.com
+  - DOMAIN-SUFFIX,juneyaoair.com
+  - DOMAIN-SUFFIX,taolx.com
+  
+  # - > Xiaomi, Baidu, Meituan, CITIC, Bank
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-SUFFIX,gov.cn
@@ -19,7 +24,12 @@ payload:
   - DOMAIN-SUFFIX,cib.com.cn
   - DOMAIN-SUFFIX,unionpay.com
   - DOMAIN-SUFFIX,cn
+  
+  # - > Ximalaya
   - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
+
+  # - > Others
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,17wo.cn
   - DOMAIN-SUFFIX,10010.com
@@ -57,7 +67,8 @@ payload:
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,migu.cn
   - DOMAIN-SUFFIX,miguvideo.com
-  #163
+  
+  # - > Netease
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,126.net
@@ -83,7 +94,9 @@ payload:
   - IP-CIDR,59.111.181.35/32
   - IP-CIDR,59.111.181.38/32
   - IP-CIDR,59.111.181.60/32
-  - DOMAIN-SUFFIX,*music.qq.com
+  
+    # - > QQ Music
+  - DOMAIN-SUFFIX,music.qq.com
   - DOMAIN-SUFFIX,y.qq.com
   - DOMAIN-SUFFIX,aqqmusic.tc.qq.com
   - DOMAIN-SUFFIX,v.qq.com
@@ -93,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com
+  
   - DOMAIN-SUFFIX,coalcloud.net
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,suning.cn
