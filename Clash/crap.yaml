@@ -1,0 +1,18 @@
+payload:
+  # > alibaba
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,alibaba
+  - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,tbcdn.cn
+  - DOMAIN-KEYWORD,mmstat
+  - DOMAIN-KEYWORD,aliapp
+  - DOMAIN-KEYWORD,aliexpress
+
+  # > JD.com
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-KEYWORD,360buyimg
+  - DOMAIN-SUFFIX,3.cn
+  - DOMAIN-SUFFIX,300hu.com
