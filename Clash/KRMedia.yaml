@@ -1,6 +1,6 @@
 payload:  
-  - DOMAIN-KEYWORD,torrentdia
-  - DOMAIN-SUFFIX,yes24.com
+  - DOMAIN-KEYWORD,torrent
+#  - DOMAIN-KEYWORD,torrentube
   - DOMAIN-KEYWORD,yes24
   - DOMAIN-KEYWORD,ticketbay
   - DOMAIN-KEYWORD,widerplanet
@@ -9,25 +9,16 @@ payload:
   - DOMAIN-SUFFIX,bizspring.net
   - DOMAIN-SUFFIX,interpark.com
   - DOMAIN-SUFFIX,jwpcdn.com
-  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-KEYWORD,naver
   - DOMAIN-SUFFIX,pstatic.net
-  - DOMAIN-SUFFIX,naver.net
-  - DOMAIN-SUFFIX,navercorp.com
   - DOMAIN-SUFFIX,smartmediarep.com
   - DOMAIN-SUFFIX,vlive.tv
-  - DOMAIN-SUFFIX,kakaocdn.net
-  - DOMAIN-KEYWORD,naver
-  - DOMAIN-SUFFIX,daumcdn.net
-  - DOMAIN-SUFFIX,daum.net
+  - DOMAIN-SUFFIX,globalv-rmcnmv.akamaized.net
+  - DOMAIN-KEYWORD,kakao
   - DOMAIN-KEYWORD,daum
   - DOMAIN-SUFFIX,tistory.com
   - DOMAIN-SUFFIX,topstarnews.net
   - DOMAIN-SUFFIX,mobon.net
   - DOMAIN-SUFFIX,kaokao.com
-  - DOMAIN-SUFFIX,kakaocorp.com
-  - DOMAIN-SUFFIX,kakao.com
-  - DOMAIN-SUFFIX,kakaocdn.net
-  - DOMAIN-KEYWORD,kakao
   - DOMAIN-SUFFIX,dcinside.com
-  - DOMAIN-SUFFIX,co.kr
   - DOMAIN-SUFFIX,kr
