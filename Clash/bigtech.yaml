@@ -72,19 +72,23 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,whatsapp.net
-  
-    # Others
+
+    # -> Amazon
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,a2z.com
+
+    # -> Others
   - DOMAIN-KEYWORD,imap
   - DOMAIN-KEYWORD,smtp
-  - DOMAIN-KEYWORD,amazon
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-KEYWORD,cloudfront
   - DOMAIN-KEYWORD,github
-  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,mapbox.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oracleinfinity.io
   - DOMAIN-SUFFIX,truste.com
   - DOMAIN-SUFFIX,trustarc.com
   - DOMAIN-SUFFIX,ipip.net
