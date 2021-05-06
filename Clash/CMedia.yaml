@@ -13,6 +13,7 @@ payload:
   # - > Xiaomi, Baidu, Meituan, CITIC, Bank
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-KEYWORD,baidu
+  - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,dianping.com
   - DOMAIN-SUFFIX,meituan.com
@@ -28,6 +29,7 @@ payload:
   # - > Ximalaya
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xmcdn.com
+  - DOMAIN-SUFFIX,cnmstl.net
 
   # - > Others
   - DOMAIN-SUFFIX,bdimg.com
@@ -106,8 +108,9 @@ payload:
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com
+  - DOMAIN-SUFFIX,weiyun.com
   
   - DOMAIN-SUFFIX,coalcloud.net
   - DOMAIN-SUFFIX,suning.com
   - DOMAIN-SUFFIX,suning.cn
-  - IP-CIDR,47.102.0.0/16
+  
