@@ -11,7 +11,7 @@ payload:
   - DOMAIN-KEYWORD,aliapp
   - DOMAIN-KEYWORD,aliexpress
 
-  # > JD.com
+  # > JD
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-KEYWORD,360buyimg
   - DOMAIN-SUFFIX,3.cn
