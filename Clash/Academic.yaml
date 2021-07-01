@@ -1,4 +1,5 @@
-payload:  
+payload:
+  - DOMAIN-SUFFIX,scholar.google.com
   - DOMAIN-SUFFIX,ac.jp
   - DOMAIN-SUFFIX,go.jp
   - DOMAIN-SUFFIX,edu
