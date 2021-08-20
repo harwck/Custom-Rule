@@ -1,15 +1,35 @@
 USER-AGENT,%E5%8D%83%E7%89%9B*,RUBBISH
-DOMAIN-KEYWORD,taobao,RUBBISH
-DOMAIN-KEYWORD,alicdn,RUBBISH
-DOMAIN-KEYWORD,alibaba,RUBBISH
-DOMAIN-KEYWORD,aliyun,RUBBISH
-DOMAIN-KEYWORD,alipay,RUBBISH
-DOMAIN-SUFFIX,tmall.com,RUBBISH
-DOMAIN-SUFFIX,tbcdn.cn,RUBBISH
-DOMAIN-KEYWORD,mmstat,RUBBISH
-DOMAIN-KEYWORD,aliapp,RUBBISH
-# DOMAIN-KEYWORD,aliexpress,RUBBISH
-DOMAIN-SUFFIX,jd.com,RUBBISH
-DOMAIN-KEYWORD,360buyimg,RUBBISH
-DOMAIN-SUFFIX,3.cn,RUBBISH
-DOMAIN-SUFFIX,300hu.com,RUBBISH
+
+# -> Alibaba
+DOMAIN-KEYWORD,taobao,Rubbish
+DOMAIN-KEYWORD,alicdn,Rubbish
+DOMAIN-KEYWORD,alibaba,Rubbish
+DOMAIN-KEYWORD,aliyun,Rubbish
+DOMAIN-KEYWORD,alipay,Rubbish
+DOMAIN-SUFFIX,tmall.com,Rubbish
+DOMAIN-SUFFIX,tbcdn.cn,Rubbish
+DOMAIN-KEYWORD,mmstat,Rubbish
+DOMAIN-KEYWORD,aliapp,Rubbish
+DOMAIN-KEYWORD,aliexpress,Rubbish
+
+# -> JD
+DOMAIN-SUFFIX,jd.com,Rubbish
+DOMAIN-KEYWORD,360buyimg,Rubbish
+DOMAIN-SUFFIX,3.cn,Rubbish
+DOMAIN-SUFFIX,300hu.com,Rubbish
+DOMAIN-SUFFIX,10010.com,Rubbish
+DOMAIN-SUFFIX,cn,Rubbish
+
+# -> Bilibili
+DOMAIN-SUFFIX,bilibili.com,Rubbish
+DOMAIN-SUFFIX,hdslb.com,Rubbish
+DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,Rubbish
+DOMAIN-SUFFIX,bilivideo.com,Rubbish
+DOMAIN-SUFFIX,biliapi.net,Rubbish
+
+# -> Netease Music
+DOMAIN-SUFFIX,163yun.com,Rubbish
+DOMAIN-SUFFIX,163.com,Rubbish
+DOMAIN-SUFFIX,hz.netease.com,Rubbish
+DOMAIN-SUFFIX,mam.netease.com,Rubbish
+DOMAIN-SUFFIX,126.net,Rubbish
