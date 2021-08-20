@@ -1,45 +1,24 @@
-# Ticketing Websites
-DOMAIN-SUFFIX,yes24.com,🇰🇷 Media
-DOMAIN-KEYWORD,yes24,🇰🇷 Media
-DOMAIN-KEYWORD,ticketbay,🇰🇷 Media
-DOMAIN-KEYWORD,widerplanet,🇰🇷 Media
-DOMAIN-KEYWORD,exelbid,🇰🇷 Media
-DOMAIN-SUFFIX,toast.com,🇰🇷 Media
-DOMAIN-SUFFIX,bizspring.net,🇰🇷 Media
-DOMAIN-SUFFIX,interpark.com,🇰🇷 Media
-DOMAIN-SUFFIX,jwpcdn.com,🇰🇷 Media
-
-# Naver
-DOMAIN-SUFFIX,naver.com,🇰🇷 Media
-DOMAIN-SUFFIX,pstatic.net,🇰🇷 Media
-DOMAIN-SUFFIX,naver.net,🇰🇷 Media
-DOMAIN-SUFFIX,navercorp.com,🇰🇷 Media
-DOMAIN-SUFFIX,vlive.tv,🇰🇷 Media
-DOMAIN-SUFFIX,kakaocdn.net,🇰🇷 Media
-DOMAIN-SUFFIX,tving.com,🇰🇷 Media
-DOMAIN-SUFFIX,smartmediarep.com,🇰🇷 Media
-
-# Korea Torrent Sites
-DOMAIN-SUFFIX,torrenttt03.me,🇰🇷 Media
-DOMAIN-SUFFIX,torrentdia.com,🇰🇷 Media
-DOMAIN-SUFFIX,torrentube.net,🇰🇷 Media
-
-# Daum
-DOMAIN-SUFFIX,daumcdn.net,🇰🇷 Media
-DOMAIN-SUFFIX,daum.net,🇰🇷 Media
-DOMAIN-KEYWORD,daum,🇰🇷 Media
-
-# KaoKao
-DOMAIN-SUFFIX,tistory.com,🇰🇷 Media
-DOMAIN-SUFFIX,topstarnews.net,🇰🇷 Media
-DOMAIN-SUFFIX,mobon.net,🇰🇷 Media
-DOMAIN-SUFFIX,kaokao.com,🇰🇷 Media
-DOMAIN-SUFFIX,kakaocorp.com,🇰🇷 Media
-DOMAIN-SUFFIX,kakao.com,🇰🇷 Media
-DOMAIN-SUFFIX,kakaocdn.net,🇰🇷 Media
-DOMAIN-KEYWORD,kakao,🇰🇷 Media
-
-# Match
-DOMAIN-SUFFIX,dcinside.com,🇰🇷 Media
-DOMAIN-SUFFIX,co.kr,🇰🇷 Media
-DOMAIN-SUFFIX,kr,🇰🇷 Media
+# > Korean Websites  
+DOMAIN-KEYWORD,torrent,KR-Media
+DOMAIN-KEYWORD,torrentube,KR-Media
+DOMAIN-KEYWORD,yes24,KR-Media
+DOMAIN-KEYWORD,ticketbay,KR-Media
+DOMAIN-KEYWORD,widerplanet,KR-Media
+DOMAIN-KEYWORD,exelbid,KR-Media
+DOMAIN-SUFFIX,toast.com,KR-Media
+DOMAIN-SUFFIX,bizspring.net,KR-Media
+DOMAIN-SUFFIX,interpark.com,KR-Media
+DOMAIN-SUFFIX,jwpcdn.com,KR-Media
+DOMAIN-KEYWORD,naver,KR-Media
+DOMAIN-SUFFIX,pstatic.net,KR-Media
+DOMAIN-SUFFIX,smartmediarep.com,KR-Media
+DOMAIN-SUFFIX,vlive.tv,KR-Media
+DOMAIN-SUFFIX,globalv-rmcnmv.akamaized.net,KR-Media
+DOMAIN-KEYWORD,kakao,KR-Media
+DOMAIN-KEYWORD,daum,KR-Media
+DOMAIN-SUFFIX,tistory.com,KR-Media
+DOMAIN-SUFFIX,topstarnews.net,KR-Media
+DOMAIN-SUFFIX,mobon.net,KR-Media
+DOMAIN-SUFFIX,kaokao.com,KR-Media
+DOMAIN-SUFFIX,dcinside.com,KR-Media
+DOMAIN-SUFFIX,kr,KR-Media
