@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,163.com,Rubbish
 DOMAIN-SUFFIX,hz.netease.com,Rubbish
 DOMAIN-SUFFIX,mam.netease.com,Rubbish
 DOMAIN-SUFFIX,126.net,Rubbish
+
+# -> 墨墨背单词
+DOMAIN-SUFFIX,maimemo,Rubbish
