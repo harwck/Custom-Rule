@@ -1,10 +1,10 @@
 # > Discovery Plus
-#- PROCESS-NAME,com.discovery.discoveryplus.mobile,DiscoveryPluss
-- DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com,DiscoveryPluss
-- DOMAIN-SUFFIX,disco-api.com,DiscoveryPluss
-- DOMAIN-SUFFIX,discoveryplus.com,DiscoveryPluss
-- DOMAIN-SUFFIX,fwmrm.net,DiscoveryPluss
-- DOMAIN-SUFFIX,getblueshift.com,DiscoveryPluss
-- DOMAIN-SUFFIX,litix.io,DiscoveryPluss
-- DOMAIN-SUFFIX,mobile-collector.newrelic.com,DiscoveryPluss
-- DOMAIN-SUFFIX,uplynk.com,DiscoveryPluss
+#- PROCESS-NAME,com.discovery.discoveryplus.mobile,DiscoveryPlus
+- DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com,DiscoveryPlus
+- DOMAIN-SUFFIX,disco-api.com,DiscoveryPlus
+- DOMAIN-SUFFIX,discoveryplus.com,DiscoveryPlus
+- DOMAIN-SUFFIX,fwmrm.net,DiscoveryPlus
+- DOMAIN-SUFFIX,getblueshift.com,DiscoveryPlus
+- DOMAIN-SUFFIX,litix.io,DiscoveryPlus
+- DOMAIN-SUFFIX,mobile-collector.newrelic.com,DiscoveryPlus
+- DOMAIN-SUFFIX,uplynk.com,DiscoveryPlus
