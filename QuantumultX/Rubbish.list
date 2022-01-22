@@ -35,4 +35,4 @@ DOMAIN-SUFFIX,mam.netease.com,Rubbish
 DOMAIN-SUFFIX,126.net,Rubbish
 
 # -> 墨墨背单词
-DOMAIN-SUFFIX,maimemo,Rubbish
+DOMAIN-KEYWORD,maimemo,Rubbish
